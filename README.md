@@ -17,7 +17,7 @@ PSO_GA_OOP/
 ## اجرا
 
 ```bash
-cd ~/Desktop/PSO_GA_OOP
+cd ~/PSO_GA_OOP
 python3 main.py
 ```
 
